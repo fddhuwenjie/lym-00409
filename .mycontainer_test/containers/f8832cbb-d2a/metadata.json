@@ -1,0 +1,10 @@
+{
+  "id": "f8832cbb-d2a",
+  "image": "testos",
+  "cmd": "touch /tmp/container2_only; echo container2_ready; sleep 60",
+  "status": "stopped",
+  "created_at": 1781597968.631238,
+  "pid": 82063,
+  "pgid": 82063,
+  "stopped_at": 1781597973.2514932
+}

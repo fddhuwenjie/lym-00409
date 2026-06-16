@@ -1,0 +1,11 @@
+{
+  "id": "85613dbe-304",
+  "image": "testos",
+  "cmd": "echo hello from container; ls /; touch /tmp/testfile",
+  "status": "stopped",
+  "created_at": 1781597964.526067,
+  "pid": 82037,
+  "pgid": 82037,
+  "exit_code": 0,
+  "stopped_at": 1781597964.531811
+}
