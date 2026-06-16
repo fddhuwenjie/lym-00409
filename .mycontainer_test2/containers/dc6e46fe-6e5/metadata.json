@@ -1,0 +1,21 @@
+{
+  "id": "dc6e46fe-6e5",
+  "image": "testos",
+  "cmd": "echo failing_now; exit 1",
+  "status": "stopped",
+  "created_at": 1781603205.687128,
+  "pid": 77434,
+  "pgid": 77434,
+  "ip": "172.17.0.7",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "on-failure",
+    "max_retries": 2
+  },
+  "resource_limits": {},
+  "restart_count": 2,
+  "last_exit_code": 1,
+  "last_stopped_at": 1781603211.726196,
+  "exit_code": 1,
+  "stopped_at": 1781603211.726827
+}

@@ -1,0 +1,7 @@
+Container 1bc727cf-0fd started (PID 77255, PGID 77255)
+started1
+1: lo: <LOOPBACK,UP>
+    inet 127.0.0.1/8 scope host lo
+2: eth0: <UP>
+    inet 172.17.0.2/16 scope global eth0
+Container 1bc727cf-0fd exited with code 143

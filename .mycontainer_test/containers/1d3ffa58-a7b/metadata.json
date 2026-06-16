@@ -1,0 +1,17 @@
+{
+  "id": "1d3ffa58-a7b",
+  "image": "testos",
+  "cmd": "touch /tmp/container2_only; echo container2_ready; sleep 60",
+  "status": "stopped",
+  "created_at": 1781603319.958612,
+  "pid": 78690,
+  "pgid": 78690,
+  "ip": "172.17.0.4",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {},
+  "restart_count": 0,
+  "stopped_at": 1781603324.181184
+}

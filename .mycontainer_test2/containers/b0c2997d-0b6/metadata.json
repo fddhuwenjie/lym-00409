@@ -1,0 +1,20 @@
+{
+  "id": "b0c2997d-0b6",
+  "image": "testos",
+  "cmd": "echo SERVER_READY; echo HELLO_FROM_SERVER | nc -l -p 9999",
+  "status": "stopped",
+  "created_at": 1781603193.023741,
+  "pid": 77302,
+  "pgid": 77302,
+  "ip": "172.17.0.4",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {},
+  "restart_count": 0,
+  "last_exit_code": 0,
+  "last_stopped_at": 1781603199.010679,
+  "exit_code": 0,
+  "stopped_at": 1781603199.011109
+}

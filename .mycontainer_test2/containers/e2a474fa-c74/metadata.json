@@ -1,0 +1,23 @@
+{
+  "id": "e2a474fa-c74",
+  "image": "testos",
+  "cmd": "echo limits_applied",
+  "status": "stopped",
+  "created_at": 1781603205.5233548,
+  "pid": 77392,
+  "pgid": 77392,
+  "ip": "172.17.0.6",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {
+    "memory": 67108864,
+    "nofile": 128
+  },
+  "restart_count": 0,
+  "last_exit_code": 0,
+  "last_stopped_at": 1781603205.531422,
+  "exit_code": 0,
+  "stopped_at": 1781603205.531738
+}

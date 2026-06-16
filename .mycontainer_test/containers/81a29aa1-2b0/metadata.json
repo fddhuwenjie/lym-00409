@@ -1,0 +1,20 @@
+{
+  "id": "81a29aa1-2b0",
+  "image": "testos",
+  "cmd": "echo hello from container; ls /; touch /tmp/testfile",
+  "status": "stopped",
+  "created_at": 1781603315.722917,
+  "pid": 78641,
+  "pgid": 78641,
+  "ip": "172.17.0.2",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {},
+  "restart_count": 0,
+  "last_exit_code": 0,
+  "last_stopped_at": 1781603315.730977,
+  "exit_code": 0,
+  "stopped_at": 1781603315.731335
+}

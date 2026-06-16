@@ -1,0 +1,25 @@
+{
+  "id": "2639a254-0ad",
+  "image": "testos",
+  "cmd": "echo PORT_SERVER_READY; echo PORT_MAP_HELLO | nc -l -p 8888",
+  "status": "stopped",
+  "created_at": 1781603199.173355,
+  "pid": 77339,
+  "pgid": 77339,
+  "ip": "172.17.0.5",
+  "port_mappings": [
+    [
+      19876,
+      8888
+    ]
+  ],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {},
+  "restart_count": 0,
+  "last_exit_code": 0,
+  "last_stopped_at": 1781603205.096034,
+  "exit_code": 0,
+  "stopped_at": 1781603205.0963929
+}

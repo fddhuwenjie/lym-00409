@@ -1,0 +1,16 @@
+Container 81a29aa1-2b0 started (PID 78641, PGID 78641)
+hello from container
+bin
+data
+dev
+etc
+home
+lib
+opt
+proc
+root
+sys
+tmp
+usr
+var
+Container 81a29aa1-2b0 exited with code 0

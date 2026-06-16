@@ -1,0 +1,5 @@
+Port mapping: 127.0.0.1:19876 -> 172.17.0.5:8888
+Container 2639a254-0ad started (PID 77339, PGID 77339)
+PORT_SERVER_READY
+Listening on 0.0.0.0:8888
+Container 2639a254-0ad exited with code 0

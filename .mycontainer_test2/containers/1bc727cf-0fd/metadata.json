@@ -1,0 +1,17 @@
+{
+  "id": "1bc727cf-0fd",
+  "image": "testos",
+  "cmd": "echo started1; ip addr; sleep 300",
+  "status": "stopped",
+  "created_at": 1781603186.900558,
+  "pid": 77255,
+  "pgid": 77255,
+  "ip": "172.17.0.2",
+  "port_mappings": [],
+  "restart_policy": {
+    "policy": "no"
+  },
+  "resource_limits": {},
+  "restart_count": 0,
+  "stopped_at": 1781603218.2286441
+}

@@ -1,0 +1,11 @@
+Container dc6e46fe-6e5 started (PID 77400, PGID 77400)
+failing_now
+Container dc6e46fe-6e5 exited with code 1
+Restarting container dc6e46fe-6e5 in 2s (attempt 1)...
+Container dc6e46fe-6e5 started (PID 77409, PGID 77409)
+failing_now
+Container dc6e46fe-6e5 exited with code 1
+Restarting container dc6e46fe-6e5 in 4s (attempt 2)...
+Container dc6e46fe-6e5 started (PID 77434, PGID 77434)
+failing_now
+Container dc6e46fe-6e5 exited with code 1
